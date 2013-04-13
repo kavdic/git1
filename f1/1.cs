@@ -7,6 +7,8 @@ namespace One
     public String Readme { set; get; };
     
     public Test() {}
+    
+    public void Test2() {}
   }
 
 }
